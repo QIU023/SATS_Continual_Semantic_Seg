@@ -1,0 +1,14 @@
+./checkpoints_model
+./data
+./images
+./apex-master
+./trained_models
+./logs
+logs/*
+*events*
+checkpoints_model/*
+
+ablation_model_code/*
+results/*
+plop_median/*
+wang_server/*
