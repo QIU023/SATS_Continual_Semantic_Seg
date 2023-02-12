@@ -9,12 +9,6 @@
 SATS: Self-Attention Transfer for Continual Semantic Segmentation is a new SOTA method of Continual Semantic Segmentation, 
 which utilize the unique intra-class and inter-class relationship information in advanced Transformer segmentation model.
 
-
-
-<img src="images/sats_voc.png" alt="Results on VOC " style="zoom: 50%;" />
-
-<img src="images/sats_vis.png" alt="Vizualization on VOC 15-1" style="zoom:50%;" />
-
 Our SATS has been published in Pattern Recognition Journal, if you have used or mentioned SATS method, code, and other relevant contents in SATS,
 please remember to cite SATS.
 
@@ -31,6 +25,12 @@ author = {Yiqiao Qiu and Yixing Shen and Zhuohao Sun and Yanchong Zheng and Xiao
 keywords = {Continual learning, Semantic segmentation, Self-attention transfer, Class-specific region pooling},
 }
 ``` 
+
+<img src="images/sats_voc.png" alt="Results on VOC " style="zoom: 40%;" />
+
+<img src="images/sats_vis.png" alt="Vizualization on VOC 15-1" style="zoom:40%;" />
+
+
 
 This repository contains all of our code. It is a modified version of [Douillard et al.'s repository](https://github.com/arthurdouillard/CVPR2021_PLOP).
 
