@@ -2,8 +2,8 @@
 
 # Self-Attention Transfer for Continual Semantic Segmentation
 
-<!-- [![Paper](https://img.shields.io/badge/arXiv-2203.07667-brightgreen)](https://arxiv.org/abs/2203.07667)
-[![Journal](https://img.shields.io/badge/PR-blue)](https://arxiv.org/abs/2203.07667) -->
+[![Paper](https://img.shields.io/badge/arXiv-2203.07667-brightgreen)](https://arxiv.org/abs/2203.07667)
+[![Journal](https://img.shields.io/badge/PR-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0031320323000845)
 </div>
 
 SATS: Self-Attention Transfer for Continual Semantic Segmentation is a new SOTA method of Continual Semantic Segmentation, 
