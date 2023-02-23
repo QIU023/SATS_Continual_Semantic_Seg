@@ -58,7 +58,7 @@ You need to at least install the following libraries:
 - MulticoreTSNE
 - einops
 
-When you need to set up environment in a new machine, you can use my script file: utils.txt to build up basic environment
+When you need to set up environment in a new machine, you can use my script file: utils.sh to build up basic environment
 ```
 bash utils.sh
 ```
